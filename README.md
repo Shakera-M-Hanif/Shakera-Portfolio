@@ -1,2 +1,3 @@
 # Shakera-Portfolio
-Repository of notable project I have done 
+Repository of notable project I have done.
+## 
